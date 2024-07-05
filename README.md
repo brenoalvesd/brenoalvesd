@@ -1,6 +1,6 @@
-## Hi there! 👋🏻
+## Hey! 👋🏻
 ## My name is Breno 🙋🏻‍♂
-## Currently learning back-end development with Typescript 👨🏻‍💻
+## I'm currently learning back-end development with TypeScript 👨🏻‍💻
 
 <p align="">
   <a href="https://skillicons.dev">
