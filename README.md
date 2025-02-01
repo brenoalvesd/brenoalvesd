@@ -1,10 +1,10 @@
-## Hey! 👋🏻
-## My name is Breno 🙋🏻‍♂
-## I'm currently into back-end development with TypeScript 👨🏻‍💻
+## Hey! My name is Breno 👋🏻
+## I'm currently working on https://qualaboa.app 
+## Check out my current stack 👇🏼
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vitest,nest,postgres,docker,vscode,obsidian,notion" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nest,jest,sentry,docker,postman,git,github,rabbitmq,postgres,vscode,obsidian,notion&theme=dark" />
   </a>
 </p>
 
