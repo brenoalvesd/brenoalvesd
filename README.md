@@ -1,6 +1,5 @@
 ## Hey! My name is Breno 👋🏻
 ## I'm currently working on https://qualaboa.app 
-## Check out my current stack 👇🏼
 
 <p align="">
   <a href="https://skillicons.dev">
