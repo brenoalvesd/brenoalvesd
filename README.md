@@ -1,8 +1,8 @@
-## Striving to learn and impact.
+## Building, evaluating, iterating.
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,flask,nodejs,nest,jest,vitest,docker,git,postgres,obsidian,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nest,prisma,docker,git,postgres,obsidian,notion&theme=dark" />
   </a>
 </p>
 
